@@ -1,3 +1,6 @@
+'''This script demonstrates how to call C functions from Python using the ctypes library.
+Dec 2021, Marcel van den Broek'''
+
 import ctypes
 import time as tm
 import numpy as np
